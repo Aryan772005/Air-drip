@@ -135,3 +135,5 @@ hawa-ai/
   models/                            # Serialized LightGBM & Quantile models
   outputs/                           # Validation metrics, charts, & SHAP plots
 ```
+
+> AI-powered neighborhood-level air quality prediction before, during and after Diwali.
