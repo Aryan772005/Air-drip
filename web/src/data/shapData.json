@@ -1,0 +1,62 @@
+[
+  {
+    "Feature": "Neighborhood/City",
+    "Mean_Absolute_SHAP": 61.05
+  },
+  {
+    "Feature": "Wind Speed (km/h)",
+    "Mean_Absolute_SHAP": 52.07
+  },
+  {
+    "Feature": "Hour of Day",
+    "Mean_Absolute_SHAP": 18.74
+  },
+  {
+    "Feature": "Diwali Night Spike",
+    "Mean_Absolute_SHAP": 11.62
+  },
+  {
+    "Feature": "Rush Hour (Traffic)",
+    "Mean_Absolute_SHAP": 8.02
+  },
+  {
+    "Feature": "Days from Diwali",
+    "Mean_Absolute_SHAP": 4.53
+  },
+  {
+    "Feature": "Temperature (\u00b0C)",
+    "Mean_Absolute_SHAP": 1.63
+  },
+  {
+    "Feature": "Latitude",
+    "Mean_Absolute_SHAP": 0.67
+  },
+  {
+    "Feature": "Pressure (hPa)",
+    "Mean_Absolute_SHAP": 0.31
+  },
+  {
+    "Feature": "Humidity (%)",
+    "Mean_Absolute_SHAP": 0.22
+  },
+  {
+    "Feature": "Longitude",
+    "Mean_Absolute_SHAP": 0.12
+  },
+  {
+    "Feature": "Wind Direction (\u00b0)",
+    "Mean_Absolute_SHAP": 0.02
+  },
+  {
+    "Feature": "Day of Week",
+    "Mean_Absolute_SHAP": 0.02
+  },
+  {
+    "Feature": "Month",
+    "Mean_Absolute_SHAP": 0.0
+  },
+  {
+    "Feature": "Precipitation (mm)",
+    "Mean_Absolute_SHAP": 0.0
+  }
+]

@@ -1,0 +1,16 @@
+Feature,Mean_Absolute_SHAP
+Neighborhood/City,61.05
+Wind Speed (km/h),52.07
+Hour of Day,18.74
+Diwali Night Spike,11.62
+Rush Hour (Traffic),8.02
+Days from Diwali,4.53
+Temperature (°C),1.63
+Latitude,0.67
+Pressure (hPa),0.31
+Humidity (%),0.22
+Longitude,0.12
+Wind Direction (°),0.02
+Day of Week,0.02
+Month,0.0
+Precipitation (mm),0.0

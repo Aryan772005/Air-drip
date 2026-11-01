@@ -1,0 +1,643 @@
+{
+  "trajectory": [
+    {
+      "Year": 2018,
+      "Days_From_Diwali": -7,
+      "PM2.5": 372.54833333333335
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": -6,
+      "PM2.5": 369.6129166666667
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": -5,
+      "PM2.5": 230.55875
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": -4,
+      "PM2.5": 138.59708333333336
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": -3,
+      "PM2.5": 217.23833333333332
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": -2,
+      "PM2.5": 186.97458333333333
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": -1,
+      "PM2.5": 144.74916666666667
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": 0,
+      "PM2.5": 280.1045833333334
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": 1,
+      "PM2.5": 512.0204166666666
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": 2,
+      "PM2.5": 325.21791666666667
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": 3,
+      "PM2.5": 363.69083333333333
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": 4,
+      "PM2.5": 376.51458333333335
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": 5,
+      "PM2.5": 317.34000000000003
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": 6,
+      "PM2.5": 265.20166666666665
+    },
+    {
+      "Year": 2018,
+      "Days_From_Diwali": 7,
+      "PM2.5": 292.65541666666667
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": -7,
+      "PM2.5": 187.0025
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": -6,
+      "PM2.5": 175.38
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": -5,
+      "PM2.5": 161.57041666666666
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": -4,
+      "PM2.5": 226.79708333333335
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": -3,
+      "PM2.5": 267.89458333333334
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": -2,
+      "PM2.5": 235.12625
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": -1,
+      "PM2.5": 290.9945833333333
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": 0,
+      "PM2.5": 267.6070833333333
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": 1,
+      "PM2.5": 354.91875
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": 2,
+      "PM2.5": 300.34708333333333
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": 3,
+      "PM2.5": 246.23291666666668
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": 4,
+      "PM2.5": 240.51958333333332
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": 5,
+      "PM2.5": 272.01375
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": 6,
+      "PM2.5": 201.8175
+    },
+    {
+      "Year": 2019,
+      "Days_From_Diwali": 7,
+      "PM2.5": 200.08666666666667
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": -7,
+      "PM2.5": 177.87083333333334
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": -6,
+      "PM2.5": 308.46375
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": -5,
+      "PM2.5": 279.76666666666665
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": -4,
+      "PM2.5": 313.82374999999996
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": -3,
+      "PM2.5": 233.95791666666668
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": -2,
+      "PM2.5": 339.23583333333335
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": -1,
+      "PM2.5": 334.83625
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": 0,
+      "PM2.5": 379.53541666666666
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": 1,
+      "PM2.5": 274.2120833333333
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": 2,
+      "PM2.5": 212.15833333333333
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": 3,
+      "PM2.5": 208.24416666666667
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": 4,
+      "PM2.5": 238.17041666666668
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": 5,
+      "PM2.5": 277.6041666666667
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": 6,
+      "PM2.5": 166.36541666666665
+    },
+    {
+      "Year": 2020,
+      "Days_From_Diwali": 7,
+      "PM2.5": 149.96291666666667
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": -7,
+      "PM2.5": 181.6820833333333
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": -6,
+      "PM2.5": 235.28166666666667
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": -5,
+      "PM2.5": 164.34666666666666
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": -4,
+      "PM2.5": 226.76416666666668
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": -3,
+      "PM2.5": 232.27083333333334
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": -2,
+      "PM2.5": 170.65208333333334
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": -1,
+      "PM2.5": 232.24333333333334
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": 0,
+      "PM2.5": 387.29
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": 1,
+      "PM2.5": 360.25958333333335
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": 2,
+      "PM2.5": 164.46
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": 3,
+      "PM2.5": 169.85541666666668
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": 4,
+      "PM2.5": 183.3075
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": 5,
+      "PM2.5": 189.76708333333332
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": 6,
+      "PM2.5": 219.52875
+    },
+    {
+      "Year": 2021,
+      "Days_From_Diwali": 7,
+      "PM2.5": 269.4316666666667
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": -7,
+      "PM2.5": 256.0108333333333
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": -6,
+      "PM2.5": 243.53458333333336
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": -5,
+      "PM2.5": 276.67249999999996
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": -4,
+      "PM2.5": 294.6875
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": -3,
+      "PM2.5": 349.46500000000003
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": -2,
+      "PM2.5": 207.00708333333333
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": -1,
+      "PM2.5": 253.375
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": 0,
+      "PM2.5": 252.595
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": 1,
+      "PM2.5": 287.72125
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": 2,
+      "PM2.5": 274.74
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": 3,
+      "PM2.5": 347.2883333333333
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": 4,
+      "PM2.5": 324.3508333333333
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": 5,
+      "PM2.5": 359.945
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": 6,
+      "PM2.5": 253.38
+    },
+    {
+      "Year": 2022,
+      "Days_From_Diwali": 7,
+      "PM2.5": 325.4254166666667
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": -7,
+      "PM2.5": 257.7558333333333
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": -6,
+      "PM2.5": 309.50791666666663
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": -5,
+      "PM2.5": 270.50666666666666
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": -4,
+      "PM2.5": 255.17916666666667
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": -3,
+      "PM2.5": 254.92999999999998
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": -2,
+      "PM2.5": 228.98083333333335
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": -1,
+      "PM2.5": 211.7925
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": 0,
+      "PM2.5": 284.5808333333333
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": 1,
+      "PM2.5": 395.74208333333337
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": 2,
+      "PM2.5": 244.1616666666667
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": 3,
+      "PM2.5": 223.4075
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": 4,
+      "PM2.5": 333.9183333333333
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": 5,
+      "PM2.5": 336.29749999999996
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": 6,
+      "PM2.5": 323.9129166666667
+    },
+    {
+      "Year": 2023,
+      "Days_From_Diwali": 7,
+      "PM2.5": 346.8575
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": -7,
+      "PM2.5": 158.145
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": -6,
+      "PM2.5": 178.98333333333332
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": -5,
+      "PM2.5": 210.1
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": -4,
+      "PM2.5": 265.0808333333333
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": -3,
+      "PM2.5": 227.82708333333332
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": -2,
+      "PM2.5": 251.24666666666664
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": -1,
+      "PM2.5": 243.98583333333332
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": 0,
+      "PM2.5": 250.65583333333333
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": 1,
+      "PM2.5": 288.36083333333335
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": 2,
+      "PM2.5": 248.23875
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": 3,
+      "PM2.5": 288.24708333333336
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": 4,
+      "PM2.5": 251.69625
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": 5,
+      "PM2.5": 258.48083333333335
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": 6,
+      "PM2.5": 339.3525
+    },
+    {
+      "Year": 2024,
+      "Days_From_Diwali": 7,
+      "PM2.5": 317.82374999999996
+    }
+  ],
+  "yearly_comparison": [
+    {
+      "Year": 2018,
+      "Normal_PM25": 267.85185858585857,
+      "Diwali_Night_PM25": 751.3844444444445
+    },
+    {
+      "Year": 2019,
+      "Normal_PM25": 228.38016161616162,
+      "Diwali_Night_PM25": 612.66
+    },
+    {
+      "Year": 2020,
+      "Normal_PM25": 249.1680202020202,
+      "Diwali_Night_PM25": 607.2766666666666
+    },
+    {
+      "Year": 2021,
+      "Normal_PM25": 215.24034343434343,
+      "Diwali_Night_PM25": 676.5555555555555
+    },
+    {
+      "Year": 2022,
+      "Normal_PM25": 265.8117373737374,
+      "Diwali_Night_PM25": 587.9544444444444
+    },
+    {
+      "Year": 2023,
+      "Normal_PM25": 263.2568888888889,
+      "Diwali_Night_PM25": 641.9322222222222
+    },
+    {
+      "Year": 2024,
+      "Normal_PM25": 243.90911111111112,
+      "Diwali_Night_PM25": 583.0544444444445
+    }
+  ],
+  "top10_surge": [
+    {
+      "Station": "Delhi - Anand Vihar",
+      "Normal_PM25": 249.43564213564213,
+      "Diwali_Night_PM25": 691.884126984127,
+      "Absolute_Increase": 442.44848484848484,
+      "Multiplier": 2.773798167175656
+    },
+    {
+      "Station": "Kanpur",
+      "Normal_PM25": 139.6421067821068,
+      "Diwali_Night_PM25": 567.1079365079365,
+      "Absolute_Increase": 427.46582972582974,
+      "Multiplier": 4.061152825435627
+    },
+    {
+      "Station": "Delhi - Jahangirpuri",
+      "Normal_PM25": 253.438556998557,
+      "Diwali_Night_PM25": 680.8730158730159,
+      "Absolute_Increase": 427.43445887445887,
+      "Multiplier": 2.6865407692362
+    },
+    {
+      "Station": "Patna",
+      "Normal_PM25": 139.60372294372294,
+      "Diwali_Night_PM25": 560.5952380952381,
+      "Absolute_Increase": 420.99151515151516,
+      "Multiplier": 4.015618110136112
+    },
+    {
+      "Station": "Delhi - Bawana",
+      "Normal_PM25": 253.86343434343436,
+      "Diwali_Night_PM25": 664.004761904762,
+      "Absolute_Increase": 410.14132756132756,
+      "Multiplier": 2.615598278744136
+    },
+    {
+      "Station": "Delhi - Rohini",
+      "Normal_PM25": 253.31696969696972,
+      "Diwali_Night_PM25": 660.1666666666666,
+      "Absolute_Increase": 406.8496969696969,
+      "Multiplier": 2.606089388549021
+    },
+    {
+      "Station": "Lucknow",
+      "Normal_PM25": 137.61838383838383,
+      "Diwali_Night_PM25": 536.584126984127,
+      "Absolute_Increase": 398.9657431457432,
+      "Multiplier": 3.8990730163949623
+    },
+    {
+      "Station": "Delhi - Okhla Phase 2",
+      "Normal_PM25": 245.96132756132755,
+      "Diwali_Night_PM25": 640.7634920634921,
+      "Absolute_Increase": 394.80216450216454,
+      "Multiplier": 2.605139183531709
+    },
+    {
+      "Station": "Delhi - Punjabi Bagh",
+      "Normal_PM25": 248.23128427128427,
+      "Diwali_Night_PM25": 637.6190476190476,
+      "Absolute_Increase": 389.3877633477633,
+      "Multiplier": 2.568649030241545
+    },
+    {
+      "Station": "Delhi - ITO",
+      "Normal_PM25": 249.0881673881674,
+      "Diwali_Night_PM25": 630.2015873015872,
+      "Absolute_Increase": 381.1134199134198,
+      "Multiplier": 2.5300342200499246
+    }
+  ],
+  "facts": [
+    "Fact 1: Delhi PM2.5 surges by an average of 2.7x on Diwali night compared to preceding baseline nights, leaping from 238.6 to 637.3 \u00b5g/m\u00b3.",
+    "Fact 2: Peak firecracker smoke intensity consistently strikes between 23:00 and 01:00 (reaching Severe AQI 450+), creating a hazardous inversion blanket that persists until 09:00 the following morning.",
+    "Fact 3: The neighborhood hit hardest in historical records is Delhi - Anand Vihar, enduring an average nighttime surge of +442.4 \u00b5g/m\u00b3 (2.8x above baseline levels)."
+  ]
+}

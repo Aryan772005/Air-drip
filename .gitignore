@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+web/node_modules/
+web/.next/
+web/tsconfig.tsbuildinfo
+.pytest_cache/
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+

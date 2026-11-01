@@ -1,0 +1,23 @@
+Station,Latitude,Longitude,Region,Locality,Coordinate_Status
+Delhi - Anand Vihar,28.6476,77.3158,Delhi NCR,Delhi,verified
+Delhi - R K Puram,28.5633,77.1866,Delhi NCR,Delhi,verified
+Delhi - Punjabi Bagh,28.674,77.131,Delhi NCR,Delhi,verified
+Delhi - ITO,28.6289,77.2407,Delhi NCR,Delhi,verified
+Delhi - Dwarka Sector 8,28.571,77.0719,Delhi NCR,Delhi,verified
+Delhi - Rohini,28.7325,77.119,Delhi NCR,Delhi,verified
+Delhi - Bawana,28.7762,77.0511,Delhi NCR,Delhi,verified
+Delhi - Jahangirpuri,28.7328,77.1706,Delhi NCR,Delhi,verified
+Delhi - Okhla Phase 2,28.5308,77.2713,Delhi NCR,Delhi,verified
+Delhi - Lodhi Road,28.5918,77.2273,Delhi NCR,Delhi,verified
+Mumbai,19.076,72.8777,All-India,Mumbai,verified
+Bengaluru,12.9716,77.5946,All-India,Bengaluru,verified
+Kolkata,22.5726,88.3639,All-India,Kolkata,verified
+Chennai,13.0827,80.2707,All-India,Chennai,verified
+Hyderabad,17.385,78.4867,All-India,Hyderabad,verified
+Ahmedabad,23.0225,72.5714,All-India,Ahmedabad,verified
+Pune,18.5204,73.8567,All-India,Pune,verified
+Jaipur,26.9124,75.7873,All-India,Jaipur,verified
+Lucknow,26.8467,80.9462,All-India,Lucknow,verified
+Patna,25.5941,85.1376,All-India,Patna,verified
+Chandigarh,30.7333,76.7794,All-India,Chandigarh,verified
+Kanpur,26.4499,80.3319,All-India,Kanpur,verified

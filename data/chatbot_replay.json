@@ -1,0 +1,12 @@
+{
+  "city": "Ludhiana",
+  "coordinates": {"lat": 30.901, "lon": 75.8573},
+  "weather": {"temperature_2m": 24.0, "relative_humidity_2m": 48, "precipitation": 0.0, "weather_code": 1, "wind_speed_10m": 8.5},
+  "outlook_12h": [
+    {"time": "REPLAY+00:00", "temperature_c": 24.0, "precipitation_probability_pct": 0},
+    {"time": "REPLAY+06:00", "temperature_c": 21.0, "precipitation_probability_pct": 5}
+  ],
+  "pm25": {"pm25_ugm3": 42.0, "aqi_approx": 70, "category": "Satisfactory", "advisory": "Sensitive people should limit prolonged outdoor exertion.", "basis": "Approximate and modelled from PM2.5; not official CPCB data."},
+  "peak_next_72h": 58.0,
+  "source": "Recorded demo data"
+}

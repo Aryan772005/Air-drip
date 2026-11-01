@@ -1,0 +1,178 @@
+[
+  {
+    "Station": "Delhi - Anand Vihar",
+    "Latitude": 28.6476,
+    "Longitude": 77.3158,
+    "Region": "Delhi NCR",
+    "Locality": "Delhi",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Delhi - R K Puram",
+    "Latitude": 28.5633,
+    "Longitude": 77.1866,
+    "Region": "Delhi NCR",
+    "Locality": "Delhi",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Delhi - Punjabi Bagh",
+    "Latitude": 28.674,
+    "Longitude": 77.131,
+    "Region": "Delhi NCR",
+    "Locality": "Delhi",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Delhi - ITO",
+    "Latitude": 28.6289,
+    "Longitude": 77.2407,
+    "Region": "Delhi NCR",
+    "Locality": "Delhi",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Delhi - Dwarka Sector 8",
+    "Latitude": 28.571,
+    "Longitude": 77.0719,
+    "Region": "Delhi NCR",
+    "Locality": "Delhi",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Delhi - Rohini",
+    "Latitude": 28.7325,
+    "Longitude": 77.119,
+    "Region": "Delhi NCR",
+    "Locality": "Delhi",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Delhi - Bawana",
+    "Latitude": 28.7762,
+    "Longitude": 77.0511,
+    "Region": "Delhi NCR",
+    "Locality": "Delhi",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Delhi - Jahangirpuri",
+    "Latitude": 28.7328,
+    "Longitude": 77.1706,
+    "Region": "Delhi NCR",
+    "Locality": "Delhi",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Delhi - Okhla Phase 2",
+    "Latitude": 28.5308,
+    "Longitude": 77.2713,
+    "Region": "Delhi NCR",
+    "Locality": "Delhi",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Delhi - Lodhi Road",
+    "Latitude": 28.5918,
+    "Longitude": 77.2273,
+    "Region": "Delhi NCR",
+    "Locality": "Delhi",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Mumbai",
+    "Latitude": 19.076,
+    "Longitude": 72.8777,
+    "Region": "All-India",
+    "Locality": "Mumbai",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Bengaluru",
+    "Latitude": 12.9716,
+    "Longitude": 77.5946,
+    "Region": "All-India",
+    "Locality": "Bengaluru",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Kolkata",
+    "Latitude": 22.5726,
+    "Longitude": 88.3639,
+    "Region": "All-India",
+    "Locality": "Kolkata",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Chennai",
+    "Latitude": 13.0827,
+    "Longitude": 80.2707,
+    "Region": "All-India",
+    "Locality": "Chennai",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Hyderabad",
+    "Latitude": 17.385,
+    "Longitude": 78.4867,
+    "Region": "All-India",
+    "Locality": "Hyderabad",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Ahmedabad",
+    "Latitude": 23.0225,
+    "Longitude": 72.5714,
+    "Region": "All-India",
+    "Locality": "Ahmedabad",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Pune",
+    "Latitude": 18.5204,
+    "Longitude": 73.8567,
+    "Region": "All-India",
+    "Locality": "Pune",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Jaipur",
+    "Latitude": 26.9124,
+    "Longitude": 75.7873,
+    "Region": "All-India",
+    "Locality": "Jaipur",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Lucknow",
+    "Latitude": 26.8467,
+    "Longitude": 80.9462,
+    "Region": "All-India",
+    "Locality": "Lucknow",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Patna",
+    "Latitude": 25.5941,
+    "Longitude": 85.1376,
+    "Region": "All-India",
+    "Locality": "Patna",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Chandigarh",
+    "Latitude": 30.7333,
+    "Longitude": 76.7794,
+    "Region": "All-India",
+    "Locality": "Chandigarh",
+    "Coordinate_Status": "verified"
+  },
+  {
+    "Station": "Kanpur",
+    "Latitude": 26.4499,
+    "Longitude": 80.3319,
+    "Region": "All-India",
+    "Locality": "Kanpur",
+    "Coordinate_Status": "verified"
+  }
+]

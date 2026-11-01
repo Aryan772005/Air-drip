@@ -1,0 +1,17 @@
+pandas
+numpy
+pyarrow
+requests
+lightgbm
+scikit-learn
+matplotlib
+plotly
+streamlit
+folium
+streamlit-folium
+shap
+fastapi
+uvicorn[standard]
+requests
+pytest
+
